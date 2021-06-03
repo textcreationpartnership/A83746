@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Jovis, 20 Julii, 1648. Mr. Scot. Sir Walter Erle. Mr. Hill. Sir Iohn Maynard. Mr. Copley. ... Mr. Henry Pelham. This committee or any five of them are to meet this afternoon at two of the clock in the Queens Court</title>
+            <title>Proceedings. 1648-07-20</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83746</idno><idno type="EEBO-CITATION">99897587</idno>
+  <idno type="VID">132890</idno>
+  <idno type="EEBO-PROQUEST">2248512418</idno>
+  
+            <idno type="STC">Wing E2624AC</idno>
+            <idno type="STC">ESTC R225909</idno>
+            <idno type="PROQUEST">99897587</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897587e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132890)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2515:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Jovis, 20 Julii, 1648. Mr. Scot. Sir Walter Erle. Mr. Hill. Sir Iohn Maynard. Mr. Copley. ... Mr. Henry Pelham. This committee or any five of them are to meet this afternoon at two of the clock in the Queens Court</title>
+                  <title>Proceedings. 1648-07-20</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Sept. 21. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Includes: Die 1ovis [sic], 26 1uly [sic], 1648. Ordered by the Commons assembled in Parliament, that it be referred to the committee where Mr. Scot hath the chair ... to put in execution the several ordinances for observation of the Lords-day and Fast-days ... .</note>
+                  <note>Includes: 30 Augusti, 1648. Ordered by the Commons assembled in Parliament, that the orders formerly made for a committee to enquire into the neglect of such ministers of Iustice ... .</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:132890:1"/>
+            <head>Die Jovis, 20 Julii, 1648.</head>
+            <list>
+               <item>
+                  <hi>Mr.</hi> Scot.</item>
+               <item>
+                  <hi>Sir</hi> Walter Erle.</item>
+               <item>
+                  <hi>Mr.</hi> Hill.</item>
+               <item>
+                  <hi>Sir</hi> Iohn Maynard.</item>
+               <item>
+                  <hi>Mr.</hi> Copley.</item>
+               <item>
+                  <hi>Mr.</hi> Dodderidge.</item>
+               <item>
+                  <hi>Sir</hi> Iohn Trevor.</item>
+               <item>
+                  <hi>Mr.</hi> Bulkley.</item>
+               <item>
+                  <hi>Mr.</hi> Hungerford.</item>
+               <item>
+                  <hi>Sir</hi> James Harrington.</item>
+               <item>
+                  <hi>Mr.</hi> Strode.</item>
+               <item>
+                  <hi>Sir</hi> Tho: Dacres.</item>
+               <item>
+                  <hi>Mr.</hi> Whitacre.</item>
+               <item>
+                  <hi>Col:</hi> Harvey.</item>
+               <item>
+                  <hi>Mr.</hi> Wheeler.</item>
+               <item>
+                  <hi>Sir</hi> Peter Wentworth.</item>
+               <item>
+                  <hi>Mr.</hi> Purefoy.</item>
+               <item>
+                  <hi>Mr. Sergeant</hi> Wylde.</item>
+               <item>
+                  <hi>Mr.</hi> Priestley.</item>
+               <item>
+                  <hi>Sir</hi> Dudley North.</item>
+               <item>
+                  <hi>Mr.</hi> Swynfen.</item>
+               <item>
+                  <hi>Mr.</hi> Waller.</item>
+               <item>
+                  <hi>Mr.</hi> Ashhurst.</item>
+               <item>
+                  <hi>Mr.</hi> Blackiston.</item>
+               <item>
+                  <hi>Col:</hi> Morley.</item>
+               <item>
+                  <hi>Mr.</hi> Darley.</item>
+               <item>
+                  <hi>Mr.</hi> Elleston.</item>
+               <item>
+                  <hi>Col:</hi> Massey.</item>
+               <item>
+                  <hi>Mr.</hi> Leachmere.</item>
+               <item>
+                  <hi>Mr.</hi> Miles Corbet.</item>
+               <item>
+                  <hi>Mr.</hi> Henry Pelham.</item>
+            </list>
+            <p>This Committee or any five of them are to meet this Afte<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>noon at Two of the clock in the Queens Court.</p>
+         </div>
+         <div type="order">
+            <head>
+               <hi>Die Iovis,</hi> 26 <hi>Iulij,</hi> 1648.</head>
+            <p>ORdered by the Commons assembled in Parliament, Tha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be referred to the Committee where Mr. <hi>Scot</hi> hath the Cha<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> who are to sit <hi>de die in diem,</hi> to put in execution the several Or<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nances for Observation of the Lords-day and Fast-days, and Suppression of Stage-Plays and Interludes, and to receive <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>formations, and to examine the Neglects and the Defaults th<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> in, and redress the same; and to send for Persons, Witnesses, <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pers, Records.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <head>30 Augusti, 1648.</head>
+            <p>ORdered by the Commons assembled in Parliament, That the Orde<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>merly made for a Committee to enquire into the neglect of such <gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>sters of Iustice, and others as do not perform their Duties in punishi<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Misdemeanors of such as do not better observe the Lords-day, and a publique Humiliation, be forthwith printed.</p>
+            <closer>
+               <signed>H. Elsynge, Cler. Parl. D. <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Edward Husband,</hi> Printer to the Honorable House of Commons, <hi>Sept.</hi> 21.</p>
+            <pb facs="tcp:132890:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
